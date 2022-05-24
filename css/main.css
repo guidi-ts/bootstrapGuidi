@@ -1,0 +1,38 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 145, 101);
+}
+
+a {
+    font-weight: bold;
+}
+
+p {
+    padding: 8px;
+    font-size: larger;
+    text-align: justify;
+    color: white;
+}
+
+#carouselExampleControls{
+    border: 1px solid white;
+}
+
+.h1Index{
+    margin-top: 15%;
+color: white;
+font-size: medium;
+text-align: center;
+}
+.h2Index{
+    margin-top: 60%;
+    color: white;
+    font-size: small;
+    text-align: center;
+}
